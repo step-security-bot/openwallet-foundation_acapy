@@ -232,3 +232,8 @@ updates:
       time: "04:00"
       timezone: "Canada/Pacific"
       
+
+  - package-ecosystem: docker
+    directory: /scenarios
+    schedule:
+      interval: daily
